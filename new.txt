@@ -2,4 +2,5 @@ git push
 \git pull
 git status
 git commit -m
-git add
+git ad
+asdfklkld
